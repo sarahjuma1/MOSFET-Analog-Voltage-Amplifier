@@ -61,6 +61,7 @@ The simulated gain was close to the theoretical prediction, demonstrating reason
 - **Simulation Results:** DC operating-point and AC frequency-response plots.
 - **Design Calculations:** Analytical calculations for MOSFET biasing and amplifier performance.
 - **Circuit Images:** Screenshots illustrating the amplifier architecture.
+- The images and calculations are included in the report for practical viewing.
 
 ## Project Status
 
